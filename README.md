@@ -1,6 +1,5 @@
 ### Private VPC and ec2 deployed in private subnets. 
 
-### Private VPC and ec2 deployed in private subnets. 
 This Repo. consists of VPC and ec2 terraform configuration files.
 
 The goal is to create an ec2 instance in private subnets and attach a internet-facing loadbalance to access an application.
